@@ -42,10 +42,6 @@ Install my-project with npm
 
 ## Screenshots
 
-Youtube Video LINK:
-https://www.youtube.com/watch?v=PhqjR-xaj_4&t=23s
-
-
 Homepage:
 
 ![Homepage](https://i.ibb.co/nsMvDJf/homepage.png)
@@ -70,10 +66,5 @@ Order Detail Page (Customer can track order in real-time):
 
 ![Order Detail Page (Customer can track order in real-time)](https://i.ibb.co/vswwh6T/order-Detail.png)
 
-
-## Authors
-
-- [noob-nilarghya](https://www.github.com/noob-nilarghya)
-- [vaibhav-shaw](https://www.github.com/vaibhav-shaw)
 
 
